@@ -5,8 +5,8 @@
 }
 
 body {
-  background: var(--black);
-  color: var(--green);
+  background: var(--bg);
+  color: var(--fontColor);
   font-family: helvetica;
 }
 
@@ -40,6 +40,6 @@ li {
   width: 50px;
   border-radius: 50%;
   border: none;
-  color: var(--white);
-  background-color: var(--black);
+  color: var(--btnFontColor);
+  background-color: var(--btnBg);
 }
