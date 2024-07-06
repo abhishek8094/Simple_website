@@ -1,2 +1,2 @@
 # Simple_website
-continue .......
+This is simple website with toggle.
